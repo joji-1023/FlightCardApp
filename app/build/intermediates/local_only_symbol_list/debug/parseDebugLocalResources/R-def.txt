@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+anim slide_up
+color black
+color purple_200
+color purple_500
+color purple_700
+color soft_background
+color teal_200
+color teal_700
+color white
+drawable gradient_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id arrival_card
+id arrival_card_container
+id departure_card
+id departure_card_container
+id flight_card
+id flight_card_container
+id infoText
+id sheetTitle
+id timeText
+layout activity_main
+layout activity_splash
+layout bottom_sheet_info
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.FlightCardApp
+xml backup_rules
+xml data_extraction_rules

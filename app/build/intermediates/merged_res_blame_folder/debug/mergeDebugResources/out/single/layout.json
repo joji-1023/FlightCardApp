@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.flightcardapp-mergeDebugResources-67:/layout/activity_splash.xml",
+        "source": "com.example.flightcardapp-main-70:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.flightcardapp-mergeDebugResources-67:/layout/bottom_sheet_info.xml",
+        "source": "com.example.flightcardapp-main-70:/layout/bottom_sheet_info.xml"
+    },
+    {
+        "merged": "com.example.flightcardapp-mergeDebugResources-67:/layout/activity_main.xml",
+        "source": "com.example.flightcardapp-main-70:/layout/activity_main.xml"
+    }
+]
